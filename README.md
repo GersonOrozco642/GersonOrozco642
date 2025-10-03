@@ -1,19 +1,15 @@
-# ¡Hola! 👋 Soy Gerson Orozco
+Hello! 👋 I'm Gerson Orozco
+👨‍💻 About me
+I'm a software engineering student passionate about web development and programming. I'm constantly learning and love taking on new challenges.
 
-## 👨‍💻 Sobre mí
+🌱 I'm currently building my portfolio and looking for opportunities as a freelance developer to gain real experience and add value to interesting projects.
 
-Soy estudiante de **Ingeniería de Software** apasionado por el desarrollo web y la programación. Estoy en constante aprendizaje y me encanta enfrentar nuevos desafíos.
-
-🌱 Actualmente estoy construyendo mi portafolio y buscando oportunidades como **desarrollador freelance** para ganar experiencia real y aportar valor a proyectos interesantes.
-
-## 🎯 Objetivos
-
-- 💼 Conseguir mi primer proyecto freelance
-- 📚 Dominar desarrollo Frontend con React
-- 🚀 Crear proyectos que resuelvan problemas reales
-- 🤝 Colaborar con otros desarrolladores y aprender de la comunidad
-
-## 🛠️ Tecnologías que estoy aprendiendo
+🎯 Goals
+💼 Land my first freelance project
+📚 Master front-end development with React
+🚀 Create projects that solve real problems
+🤝 Collaborate with other developers and learn from the community
+🛠️ Technologies I am learning
 
 ```javascript
 const habilidades = {
