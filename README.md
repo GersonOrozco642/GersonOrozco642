@@ -9,10 +9,16 @@ Soy estudiante de **Ingeniería en Software** apasionado por el desarrollo web y
 - 💼 Conseguir mi primer trabajo como desarrollador junior  
 - 📚 Dominar el desarrollo Frontend con React  
 - 🚀 Crear proyectos que resuelvan problemas reales  
-- 🤝 Colaborar con otros desarrolladores y aprender de la comunidad  
+- 🤝 Colaborar con otros desarrolladores y aprender de la comunidad
 
-## 🛠️ Stack Tecnológico
-
+- ## 🛠️ Tecnologías que Estoy Aprendiendo
+javascript
+const habilidades = {
+  frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
+  backend: ['Java'],
+  herramientas: ['Git', 'GitHub', 'VS Code'],
+  aprendiendo: ['Node.js']
+};
 <p align="left">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
