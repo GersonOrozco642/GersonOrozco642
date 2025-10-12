@@ -13,8 +13,6 @@ Soy estudiante de **Ingeniería en Software** apasionado por el desarrollo web y
 
 ## 🛠️ Tecnologías que Estoy Aprendiendo
 
-## 🛠️ Tecnologías que Estoy Aprendiendo
-
 ```javascript
 const habilidades = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
