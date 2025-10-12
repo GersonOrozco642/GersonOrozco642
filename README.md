@@ -6,25 +6,24 @@ Soy estudiante de **Ingeniería en Software** apasionado por el desarrollo web y
 🌱 Actualmente construyendo mi portafolio y buscando oportunidades como **desarrollador Junior** para ganar experiencia real y aportar valor a proyectos interesantes.
 
 ## 🎯 Objetivos
-- 💼 Conseguir mi primer trabajo como desarollador junior
-- 📚 Dominar el desarrollo Frontend con React
-- 🚀 Crear proyectos que resuelvan problemas reales
-- 🤝 Colaborar con otros desarrolladores y aprender de la comunidad
+- 💼 Conseguir mi primer trabajo como desarrollador junior  
+- 📚 Dominar el desarrollo Frontend con React  
+- 🚀 Crear proyectos que resuelvan problemas reales  
+- 🤝 Colaborar con otros desarrolladores y aprender de la comunidad  
 
-## 🛠️ Tecnologías que Estoy Aprendiendo
-```javascript
-const habilidades = {
-  frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
-  backend: ['Java'],
-  herramientas: ['Git', 'GitHub', 'VS Code'],
-  aprendiendo: ['Node.js']
-};
+## 🛠️ Stack Tecnológico
 
-## 💻 Stack Tecnológico
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
