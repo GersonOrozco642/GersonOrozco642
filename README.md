@@ -19,6 +19,8 @@ const habilidades = {
   herramientas: ['Git', 'GitHub', 'VS Code'],
   aprendiendo: ['Node.js']
 };
+
+##
 <p align="left">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
